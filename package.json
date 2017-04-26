@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/sauce/customerio",
   "dependencies": {
-    "lodash": "^2.4.1",
-    "needle": "^0.7.10",
-    "when": "^3.6.3"
+    "es6-promise": "^4.1.0",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^2.4.1"
   }
 }
